@@ -1,0 +1,35 @@
+{
+  "requestId": "a8df6f0e-529c-411a-aec2-b2ed8a83c3db",
+  "accessToken": "mib",
+  "requestTime": 0,
+  "resultLimit": 1,
+  "commonFeatures": {},
+  "rawInstances": [
+    {
+      "id": 1,
+      "rawFeatures": {
+        "trx_amt": 2549.36,
+        "input_source": 16,
+        "crdh_pre_ind": 2,
+        "acq_id": 9,
+        "pos_entry_mode": 5,
+        "pin_check": 1,
+        "terminal": 10748,
+        "merchant_id": 5524,
+        "usd_amt": 400.54,
+        "trx_date": 1490976000000,
+        "tran_no": "0013d7b7-5104-4381-8895-56af654bcdcf",
+        "country_code": 4,
+        "term_st": 2,
+        "card_no": "0ca292e1-eec5-45b0-9260-e1556fa2a169",
+        "org_curr_code": 17,
+        "term_city": 670,
+        "trx_time": 1491003994000,
+        "org_amt": 1825.9,
+        "merchant_type": 43
+      }
+    }
+  ],
+  "isDebug": false,
+  "isWarmupRequest": false
+}
