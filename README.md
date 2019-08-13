@@ -10,3 +10,5 @@ mvn clean package -U -DskipTests
 cp target/testrpc-1.0-SNAPSHOT.jar ~/Documents/tools/apache-jmeter-5.0/lib/ext
 ```
 
+jmeter示例图如下
+![java_request](src/main/resources/jmeter_java_request.png)
